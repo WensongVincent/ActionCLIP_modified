@@ -1,4 +1,4 @@
-pretrain: 
+pretrain: '/root/ActionCLIP_modified/trained_models/vit-32-8f.pt'
 seed: 1024
 data:
     dataset: kinetics400

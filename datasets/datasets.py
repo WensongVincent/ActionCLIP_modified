@@ -18,7 +18,7 @@ import cv2
 import numbers
 import math
 import torch
-from randaugment import RandAugment
+from RandAugment import RandAugment
 
 class GroupTransform(object):
     def __init__(self, transform):
